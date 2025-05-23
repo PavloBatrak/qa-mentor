@@ -1,0 +1,26 @@
+{
+  "name": "qa-mentor",
+  "version": "1.0.0",
+  "description": "\"# qa-mentor\" \r # QA Mentor Task – Playwright Tests",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavloBatrak/qa-mentor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavloBatrak/qa-mentor/issues"
+  },
+  "homepage": "https://github.com/PavloBatrak/qa-mentor#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
