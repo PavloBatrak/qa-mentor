@@ -59,6 +59,7 @@ It is a solution for the **QA Automation mentor test task**, which involves test
 
 ## Known Limitation – Article Publishing
 When a new article is created using Playwright automation (a -> b -> c),
+
 a) the app confirms submission,
 b) redirects to a page with the expected content and tags,
 c) but the article does not appear in the Global Feed or under "Popular Tags".
